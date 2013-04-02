@@ -245,6 +245,7 @@ hr {
 	}
 
 	.second div img {
+		clear: both;
 		position: absolute;
 		top: 60px;
 		right: -45px;
