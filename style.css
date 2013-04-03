@@ -236,7 +236,7 @@ hr {
 		
 		display: inline-block;
 		position: absolute;
-		left: -100px;
+		left: -135px;
 		top: 50px;
 	}
 
@@ -259,6 +259,7 @@ hr {
 	.second div p {
 		width: inherit;
 		clear: both;
+		padding-left:30px;
 	}
 
 	.second div p a{
