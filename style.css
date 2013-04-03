@@ -259,7 +259,6 @@ hr {
 	.second div p {
 		width: inherit;
 		clear: both;
-		padding-left:30px;
 	}
 
 	.second div p a{
@@ -291,6 +290,7 @@ hr {
 		font-size: 22px;
 		color: #666;
 		line-height: 1.3em;
+		padding-left:30px;
 	}
 
 	.second a{
