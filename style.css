@@ -18,6 +18,9 @@ header {
 
 		header ul li:first-child {
 			float: left;
+			color: #999;
+			padding: .8em;
+			margin: 0 .4em;
 		}
 
 		header ul li a {
