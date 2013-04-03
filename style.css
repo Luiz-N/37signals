@@ -258,6 +258,7 @@ hr {
 	
 	.second div p {
 		width: inherit;
+		clear: both;
 	}
 
 	.second div p a{
@@ -388,6 +389,8 @@ hr {
 		font-size: 10px;
 		background: none;
 		text-decoration: none;
+		clear: both;
+		height: 15px;
 	}
 	
 	.fourth div p a:hover {
